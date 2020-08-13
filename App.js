@@ -24,7 +24,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 //this will make the screen blank
-// import Meteor from '@meteorrn/core';
+import Meteor from '@meteorrn/core';
 
 const App: () => React$Node = () => {
   return (
