@@ -996,10 +996,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@meteorrn/core@^2.1.0-beta1":
-  version "2.1.0-beta1"
-  resolved "https://registry.yarnpkg.com/@meteorrn/core/-/core-2.1.0-beta1.tgz#10be64fae66b9e9e9668d6256ad4d2d015e2bd38"
-  integrity sha512-+z/Kykj+s/JBLH4ksKu+DQdNe7/MDPU0auW6UiwKaIonvhb33W/Uwh46RNrheIpeSkhiidXQ4KIRSC1La+9+PA==
+"@meteorrn/core@2.1.0-rc1":
+  version "2.1.0-rc1"
+  resolved "https://registry.yarnpkg.com/@meteorrn/core/-/core-2.1.0-rc1.tgz#e124301d27d7305f836d6aa21f4a1d1d797e4a77"
+  integrity sha512-cWcrclPk0PONkHyLmtFpDUDQJpqQvkIyW0KIUSN3lttiBcnj/S+cvgj6QeMhL+/Ft7UNYwpHEAdlk4O0CAdPGg==
   dependencies:
     "@babel/runtime" "^7.9.6"
     base-64 "^0.1.0"
@@ -1012,12 +1012,12 @@
     underscore "^1.8.3"
     wolfy87-eventemitter "^4.3.0"
   optionalDependencies:
-    "@react-native-community/async-storage" ">=1.8.1"
+    "@react-native-async-storage/async-storage" ">=1.8.1"
 
-"@react-native-community/async-storage@>=1.8.1":
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/async-storage/-/async-storage-1.12.0.tgz#d2fc65bc08aa1c3e9514bbe9fe7095eab8e8aca3"
-  integrity sha512-y3zVxuVyiOxI8TXrvajmYfDbIt2vFNxzV5MiA28v15DQTxDk6uJH3rpc9my+la7u2Tiwt3PpdU2+59ZgZ4h7wA==
+"@react-native-async-storage/async-storage@>=1.8.1":
+  version "1.13.2"
+  resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.13.2.tgz#649f78527f16cd5a87071a888219ef7a35ef5c79"
+  integrity sha512-isTDvUApRJPVWFxV15yrQSOGqarX7cIedq/y4N5yWSnotf68D9qvDEv1I7rCXhkBDi0u4OJt6GA9dksUT0D3wg==
   dependencies:
     deep-assign "^3.0.0"
 
